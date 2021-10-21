@@ -50,4 +50,8 @@ Informações e materiais complementares do Bootcamp da DIO - Impulso React Web 
 - [ ] Criando um site para encontrar restaurantes usando Google Maps que consulta API do Google
 - [ ] Trabalhando com context API no react
 - [ ] Graduação - evento de formatura
+
+## Material Complementar
+
+## Projetos realizados durante o bootcamp
   
