@@ -8,14 +8,14 @@ Informações e materiais complementares do Bootcamp da DIO - Impulso React Web 
 
 ## Atividades
 
-- [ ] Boas vindas ao bootcamp Impulso React Web Developer
-- [ ] Bem vindo à DIO
-- [ ] Aula inaugural - Impulso React Web Developer
-- [ ] IDE - Instalação e configuração (VS Code)
-- [ ] Lógica de Programação essencial
-- [ ] Aprenda o que são estrutura de dados e algoritmo
-- [ ] Introdução ao Git e ao Github
-- [ ] Criando seu primeiro repositório no Github para compartilhar seu progresso
+- [x] Boas vindas ao bootcamp Impulso React Web Developer
+- [x] Bem vindo à DIO
+- [x] Aula inaugural - Impulso React Web Developer
+- [x] IDE - Instalação e configuração (VS Code)
+- [x] Lógica de Programação essencial
+- [x] Aprenda o que são estrutura de dados e algoritmo
+- [x] Introdução ao Git e ao Github
+- [x] Criando seu primeiro repositório no Github para compartilhar seu progresso
 - [ ] Como organizar seus estudos para se tornar um dev
 - [ ] Mentoria DIO: como resolver desafios de código na sua jornada como dev
 - [ ] Introdução a criação de websites com HTML5 e CSS3
